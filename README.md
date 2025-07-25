@@ -37,7 +37,7 @@ Four people need to cross a bridge at night with only one umbrella, and the brid
 
 Each person takes different time to cross:
 
-A → 1 min, B → 2 min, C → 5 min, D → 10 min
+A → 20 min, B → 25 min, C → 5 min, D → 10 min
 
 Rules:
 
