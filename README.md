@@ -1,6 +1,7 @@
 **🐇 Problem 1: Rabbit Leap Puzzle**
 
-📄 Description
+📄 Description : 
+
 In the rabbit leap problem, three east-bound rabbits stand in a line blocked by three west-bound rabbits. They are crossing a stream with stones placed in the east–west direction in a line. There is one empty stone between them.
 
 Each rabbit can only:
@@ -30,7 +31,8 @@ Use DFS to explore all possible configurations recursively.
 
 **🌉 Problem 2: Bridge and Umbrella Puzzle**
 
-📄 Description
+📄 Description :
+
 Four people need to cross a bridge at night with only one umbrella, and the bridge can hold at most two people at once.
 
 Each person takes different time to cross:
