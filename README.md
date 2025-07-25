@@ -65,4 +65,4 @@ Model as a state transition graph, where each move results in a new state.
 
 Use BFS to find the minimum total time path.
 
-Use DFS to explore all possibilities (if optimization isn't needed).
+Use DFS to explore all possibilities .
